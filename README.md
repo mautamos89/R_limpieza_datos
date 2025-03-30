@@ -4,7 +4,7 @@
 
 En este repositorio almaceno los códigos empleados para la limpieza y análisis de datos alfanuméricos y geográficos.
 
-El script de R está comentado completamente y muestra las secciones de interés, las funciones y la documentación asociada.
+Los script de R están comentados completamente y muestran las secciones de interés, las funciones y la documentación asociada.
 
 ## *English*
 
